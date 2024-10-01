@@ -1,0 +1,13 @@
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\bin\Debug\2212366_Lab5_Dsktop.exe.config
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\bin\Debug\2212366_Lab5_Dsktop.exe
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\bin\Debug\2212366_Lab5_Dsktop.pdb
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\bin\Debug\Newtonsoft.Json.dll
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\bin\Debug\Newtonsoft.Json.xml
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.csproj.AssemblyReference.cache
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\_2212366_Lab5_Dsktop.Form1.resources
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\_2212366_Lab5_Dsktop.Properties.Resources.resources
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.csproj.GenerateResource.cache
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.csproj.CoreCompileInputs.cache
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.csproj.CopyComplete
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.exe
+D:\2212366\2212366_Lab5_Dsktop\2212366_Lab5_Dsktop\obj\Debug\2212366_Lab5_Dsktop.pdb

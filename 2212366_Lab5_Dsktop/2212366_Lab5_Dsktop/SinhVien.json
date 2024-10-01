@@ -1,0 +1,19 @@
+{
+	"Sinh Vien" : 
+		[
+			{
+				"MSSV" : "2212366",
+				"Ho va ten" : "Hboyss",
+				"Tuoi" : "20",
+				"Diem" : "10",
+				"Ton giao" : "False"
+			},
+			{
+				"MSSV" : "2212368",
+				"Ho va ten" : "THANG NGU",
+				"Tuoi" : "20",
+				"Diem" : "5",
+				"Ton giao" : "True"
+			},
+		]
+}
